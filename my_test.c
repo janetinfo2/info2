@@ -16,6 +16,7 @@
     printf("\n");
     return r;
     }
+    //me duele la cabeza
 
     struct complejo multcpx(struct complejo a; struct complejo b)
     {
